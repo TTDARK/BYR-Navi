@@ -5,10 +5,6 @@
       style: orange
       url: https://www.taobao.com/
 
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
-
     - name: 京东
       style: basic
       url: https://www.jd.com/
@@ -16,92 +12,27 @@
     - name: Amazon
       icon: amazon yellow
       style: basic
-      url: https://www.amazon.cn/
+      url: https://www.amazon.de/
 
     - name: Apple
       style: basic
       icon: apple grey
-      url: https://www.apple.com/
-
-    - name: 一号店
-      style: basic
-      url: https://www.yhd.com/
-
-    - name: 当当
-      style: basic
-      url: http://www.dangdang.com/
-
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
-
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: MUJI
-      style: basic
-      url: http://www.muji.com.cn/
+      url: https://www.apple.de/
 
     - name: IKEA
       style: yellow
-      url: https://www.ikea.cn/
-
-    - name: Decathlon
-      style: blue
-      url: https://www.decathlon.com.cn/
-
-    - name: 造作
-      style: basic
-      url: https://zaozuo.com/
-
-    - name: 锤子
-      style: basic
-      url: http://www.smartisan.com/
-
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
+      url: https://www.ikea.de/
 
     - name: 小米
       style: orange
       url: https://www.mi.com/
 
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
-
   - name: 工具
     links:
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
-
-    - name: 快递查询
-      icon: truck olive
-      style: basic
-      url: http://www.kuaidi100.com/
-
-    - name: 大众点评
-      icon: utensils orange
-      style: basic
-      url: http://www.dianping.com/
-
-    # - name: 网易邮箱
-    #   icon: envelope red
-    #   style: basic
-    #   url: http://email.163.com/
-
     - name: QQ邮箱
       icon: qq black
       style: basic
       url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      icon: envelope red
-      style: basic
-      url: https://mail.sina.com.cn/
 
     - name: Gmail
       icon: google red
@@ -113,32 +44,13 @@
       style: basic
       url: https://translate.google.com/
 
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
-
     - name: 维基百科
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
-
   - name: 社交
     links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
-
     - name: 微信网页版
       icon: weixin green
       style: basic
@@ -235,18 +147,14 @@
 
   - name: 娱乐
     links:
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
-
-    # - name: 土豆
-    #   style: basic
-    #   url: https://tudou.com/
-
     - name: Youtube
       icon: youtube red
       style: basic
       url: https://youtube.com/
+
+    - name: 优酷
+      style: basic
+      url: https://youku.com/
 
     - name: 爱奇艺
       style: green
@@ -264,54 +172,8 @@
       style: pink
       url: https://bilibili.com/
 
-    # - name: AcFun
-    #   style: basic
-    #   url: https://acfun.cn/
-
-    - name: 腾讯动漫
-      style: basic
-      url: https://ac.qq.com/
-
-    - name: 虾米
-      style: orange
-      url: https://xiami.com/
-
-    - name: 豆瓣电影
-      icon: film blue
-      style: basic
-      url: https://movie.douban.com/
-
-    - name: FIX
-      style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
-
-    - name: 弯弯
-      style: blue
-      url: http://wanwansub.com/node/139
-
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
-
-    - name: 电波
-      style: basic
-      url: http://dbfansub.com/
-
-    - name: 猪猪
-      style: purple
-      url: http://www.zzrbl.com/
-
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
-
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
-
-- categories:
-  - name: 北邮校园
-    links:
+  - name: 校园助手
+    links:    
     - name: 北邮官网
       style: basic
       url: http://www.bupt.edu.cn/
@@ -331,105 +193,3 @@
     - name: 教务处
       style: basic
       url: http://jwc.bupt.edu.cn/
-
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
-      style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
-
-    - name: 北邮IPTV
-      style: basic
-      url: http://tv.byr.cn/
-
-    - name: 信息门户
-      style: basic
-      url: http://my.bupt.edu.cn/
-
-    - name: 图书馆
-      style: basic
-      url: http://lib.bupt.edu.cn/
-
-    - name: 北邮贴吧
-      style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
-
-    - name: 校园网
-      style: basic
-      url: http://nic.bupt.edu.cn/
-
-    - name: 北邮邮箱
-      style: basic
-      url: http://mail.bupt.edu.cn/
-
-    - name: VPN服务
-      style: basic
-      url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
-
-    - name: 空闲自习室查询
-      style: basic
-      url: http://buptclass.com/
-
-  - name: 校园助手
-    links:
-    - name: 空余教室查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
-
-    - name: 辅修专业
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
-
-    - name: 毕业设计
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
-
-    - name: 学生校际选修
-      style: basic
-      url: http://www.xueyuanlu.cn/
-
-    - name: 创新学分
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
-
-    - name: 课表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
-
-    - name: 考表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-    - name: 出国成绩单办理
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
-
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
-
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
-
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
-
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
