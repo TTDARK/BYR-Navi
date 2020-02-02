@@ -29,6 +29,20 @@
       style: basic
       url: https://one.yuerui.de
 
+  - name: 校园助手
+    links:    
+    - name: Moodle
+      style: basic
+      url: https://moodle.tu-darmstadt.de/
+
+    - name: TuCan
+      style: basic
+      url: https://www.tucan.tu-darmstadt.de/
+
+    - name: FB1
+      style: basic
+      url: https://www.wi.tu-darmstadt.de/rechtsundwirtschaftswissenschaften/index.de.jsp
+
 - categories:
   - name: 购物
     links:
@@ -156,17 +170,3 @@
     - name: TTG
       style: basic
       url: https://totheglory.im/
-
-  - name: 校园助手
-    links:    
-    - name: Moodle
-      style: basic
-      url: https://moodle.tu-darmstadt.de/
-
-    - name: TuCan
-      style: basic
-      url: https://www.tucan.tu-darmstadt.de/
-
-    - name: FB1
-      style: basic
-      url: https://www.wi.tu-darmstadt.de/rechtsundwirtschaftswissenschaften/index.de.jsp
