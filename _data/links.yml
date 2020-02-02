@@ -1,4 +1,35 @@
 - categories:
+  - name: Home
+    links:
+    - name: Aria2
+      style: basic
+      url: https://aria.yuerui.de
+
+    - name: Transmission
+      style: basic
+      url: https://tr.yuerui.de
+
+    - name: Home Assistant
+      style: basic
+      url: https://hass.yuerui.de
+
+    - name: DSM
+      style: basic
+      url: https://nas.yuerui.de
+
+    - name: Nginx
+      style: basic
+      url: https://nginx.yuerui.de
+
+    - name: Adguard
+      style: basic
+      url: https://adguard.yuerui.de
+
+    - name: Share
+      style: basic
+      url: https://one.yuerui.de
+
+- categories:
   - name: 购物
     links:
     - name: 淘宝
@@ -56,36 +87,6 @@
       style: basic
       url: https://wx.qq.com/
 
-    - name: 百度贴吧
-      icon: paw blue
-      style: basic
-      url: https://tieba.baidu.com/
-
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-
-    - name: Facebook
-      icon: facebook f blue
-      style: basic
-      url: https://www.facebook.com/
-
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
     - name: Instagram
       icon: instagram pink
       style: basic
@@ -103,47 +104,31 @@
 
   - name: 学习
     links:
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
+    # - name: Coursera
+    #   style: basic
+    #   url: https://www.coursera.org/
 
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
+    # - name: MOOC
+    #   style: basic
+    #   url: http://mooc.org/
 
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
+    # - name: 网易公开课
+    #   style: basic
+    #   url: http://open.163.com/
 
-    - name: W3School
-      style: basic
-      url: http://www.w3school.com.cn/
+    # - name: W3School
+    #   style: basic
+    #   url: http://www.w3school.com.cn/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
+    # - name: Stack Overflow
+    #   icon: stack overflow orange
+    #   style: basic
+    #   url: https://stackoverflow.com/
 
     - name: Google Open Source
       icon: code blue
       style: basic
       url: https://opensource.google.com/
-
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
 
   - name: 娱乐
     links:
@@ -168,28 +153,20 @@
       style: basic
       url: https://v.qq.com/
 
-    - name: 哔哩哔哩
-      style: pink
-      url: https://bilibili.com/
+    - name: TTG
+      style: basic
+      url: https://totheglory.im/
 
   - name: 校园助手
     links:    
-    - name: 北邮官网
+    - name: Moodle
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: https://moodle.tu-darmstadt.de/
 
-    - name: 官方导航
+    - name: TuCan
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: https://www.tucan.tu-darmstadt.de/
 
-    - name: 本科教务系统
+    - name: FB1
       style: basic
-      url: http://jwxt.bupt.edu.cn/
-
-    - name: 研究生教务系统
-      style: basic
-      url: http://yjxt.bupt.edu.cn/
-
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
+      url: https://www.wi.tu-darmstadt.de/rechtsundwirtschaftswissenschaften/index.de.jsp
