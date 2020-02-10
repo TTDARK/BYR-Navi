@@ -33,7 +33,7 @@
     links:    
     - name: Moodle
       style: basic
-      url: https://moodle.tu-darmstadt.de/
+      url: https://moodle.tu-darmstadt.de/my/
 
     - name: TuCan
       style: basic
@@ -46,13 +46,18 @@
 - categories:
   - name: 购物
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
+    - name: DM口罩
+      style: blue
+      url: https://www.idealo.de/
 
-    - name: 京东
+    - name: idealo
       style: basic
-      url: https://www.jd.com/
+      url: https://www.idealo.de/
+
+    - name: Google Shopping
+      icon: google red
+      style: basic
+      url: https://shopping.google.de/
 
     - name: Amazon
       icon: amazon yellow
@@ -71,6 +76,14 @@
     - name: 小米
       style: orange
       url: https://www.mi.com/
+
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
+
+    - name: 京东
+      style: basic
+      url: https://www.jd.com/
 
   - name: 工具
     links:
