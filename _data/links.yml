@@ -11,7 +11,7 @@
 
     - name: Home Assistant
       style: basic
-      url: https://hass.yuerui.de
+      url: https://ha.yuerui.de
 
     - name: DSM
       style: basic
@@ -46,10 +46,6 @@
 - categories:
   - name: 购物
     links:
-    - name: DM口罩
-      style: blue
-      url: https://www.dm.de/mivolis-mundschutz-p4058172015403.html
-
     - name: idealo
       style: basic
       url: https://www.idealo.de/
@@ -72,10 +68,6 @@
     - name: IKEA
       style: yellow
       url: https://www.ikea.de/
-
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
 
     - name: 淘宝
       style: orange
@@ -109,16 +101,6 @@
 
   - name: 社交
     links:
-    - name: 微信网页版
-      icon: weixin green
-      style: basic
-      url: https://wx.qq.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
-
     - name: GitHub
       icon: github black
       style: basic
@@ -167,10 +149,6 @@
     - name: 优酷
       style: basic
       url: https://youku.com/
-
-    - name: 爱奇艺
-      style: green
-      url: https://iqiyi.com/
 
     - name: 芒果
       style: orange
