@@ -12,6 +12,10 @@
     - name: Home Assistant
       style: basic
       url: https://ha.yuerui.de
+      
+    - name: 3D Printer
+      style: basic
+      url: https://octoprint.yuerui.de
 
     - name: DSM
       style: basic
