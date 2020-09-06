@@ -15,7 +15,7 @@
       
     - name: 3D Printer
       style: basic
-      url: https://octoprint.yuerui.de
+      url: http://octoprint.local
 
     - name: DSM
       style: basic
